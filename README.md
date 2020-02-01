@@ -278,11 +278,11 @@ theta_6 = atan2(-R3_6[1, 1], R3_6[1, 0])
 
 
 # 4 - Screenshots 
-!(misc_images/misc4.png)
+![](misc_images/misc4.png)
 
-!(misc_images/misc5.png)
+![](misc_images/misc5.png)
 
-!(misc_images/misc6.png)
-!(misc_images/misc_7.png)
-!(misc_images/misc8.png)
+![](misc_images/misc6.png)
+![](misc_images/misc_7.png)
+![](misc_images/misc8.png)
 ![reached](misc_images/misc9.png)
